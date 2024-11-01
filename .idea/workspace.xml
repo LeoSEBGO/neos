@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1893b237-4279-498d-885d-a504d0722b7b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/class-map-generator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.RedirectHandler.DatabaseStorage/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-intl-normalizer/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/seld/jsonlint/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-php81/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/common/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-files/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-mediatypes/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/container/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/guzzlehttp/psr7/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Framework/Neos.FluidAdaptor/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-code-coverage/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.SiteKickstarter/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/nikic/php-parser/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.NodeTypes.ContentReferences/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/dbal/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Imagine/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/process/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/imagine/imagine/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/instantiator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/ralouphie/getallheaders/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/ramsey/uuid/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/object-reflector/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/recursion-context/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/enshrined/svg-sanitize/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-intl-idn/composer.json" />
+      <option value="$PROJECT_DIR$/Build/BuildEssentials/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Neos/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-schema/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-text-template/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Neos.Ui.Compiled/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/justinrainbow/json-schema/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/flow-log/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/inflector/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.ContentRepository/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/composer-plugin/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/service-contracts/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/event-manager/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.NodeTypes.Html/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/var-exporter/composer.json" />
+      <option value="$PROJECT_DIR$/Build/Behat/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/metadata-minifier/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.NodeTypes.AssetList/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Behat/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/console/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/guzzlehttp/guzzle/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-invoker/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/lines-of-code/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Party/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.NodeTypes.BaseMixins/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/version/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Twitter.Bootstrap/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/spdx-licenses/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Framework/Neos.Http.Factories/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/laminas/laminas-code/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/ca-bundle/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/string/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phar-io/manifest/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/friendsofphp/proxy-manager-lts/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Seo/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/complexity/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Fusion.Form/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/brick/math/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/guzzlehttp/promises/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/theseer/tokenizer/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Diff/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Framework/Neos.Eel/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phpunit/phpunit/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/migrations/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/dom-crawler/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/simple-cache/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Framework/Neos.Flow/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/behat/transliterator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/annotations/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Neos.Setup/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/http-server-handler/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/http-server-middleware/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/http-factory/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/seld/signal-handler/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/typo3fluid/fluid/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/semver/composer.json" />
+      <option value="$PROJECT_DIR$/DistributionPackages/NEON.Website/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/myclabs/deep-copy/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.RedirectHandler.NeosAdapter/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/comparator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/lexer/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.RedirectHandler.Ui/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/exporter/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/react/promise/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-pdo/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/diff/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/xdebug-handler/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/global-state/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-intl-grapheme/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/cache/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.NodeTypes.Navigation/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-unicode/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/deprecations/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/cache/composer.json" />
+      <option value="$PROJECT_DIR$/Build/PhpCodesniffer/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/cache-contracts/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/resource-operations/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/code-unit-reverse-lookup/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-arrays/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/log/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-file-iterator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/egulias/email-validator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/league/csv/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/object-enumerator/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/yaml/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Fusion/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.RedirectHandler/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/ramsey/collection/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/mikey179/vfsstream/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/orm/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/filesystem/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/stopwatch/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Setup/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/cache/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/error-messages/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/collections/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Behat/Resources/Private/Build/Behat/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phar-io/version/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-ctype/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/deprecation-contracts/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Media.Browser/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Sites/Neos.Demo/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/environment/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/gedmo/doctrine-extensions/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/seld/phar-utils/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/type/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/http-client/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Media/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-opcodecache/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/doctrine/persistence/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Neos.Ui/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/composer/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Application/Neos.Fusion.Afx/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/composer/pcre/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/utility-objecthandling/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Framework/Neos.Kickstarter/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/neos/cache/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-timer/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/psr/http-message/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/cli-parser/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/symfony/finder/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/masterminds/html5/composer.json" />
+      <option value="$PROJECT_DIR$/Packages/Libraries/sebastian/code-unit/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-files" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-mediatypes" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-arrays" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/error-messages" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/cache" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-pdo" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-objecthandling" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/seld/signal-handler" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/composer-plugin" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-opcodecache" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/flow-log" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-schema" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/neos/utility-unicode" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/http-client" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/http-message" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/container" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/cache" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/http-factory" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/psr/log" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/cache" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/finder" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/string" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/console" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/ramsey/collection" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/league/csv" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/react/promise" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/gedmo/doctrine-extensions" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/brick/math" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/behat/transliterator" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phar-io/version" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/imagine/imagine" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/orm" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/process" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/version" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/masterminds/html5" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/typo3fluid/fluid" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/type" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/common" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/collections" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/cache" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/enshrined/svg-sanitize" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/mikey179/vfsstream" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/Packages/Libraries/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oAPskYFsobPD8dp3X8v01DHcgi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/leonard-sebgo/Downloads/demo-1.2.2.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1893b237-4279-498d-885d-a504d0722b7b" name="Changes" comment="" />
+      <created>1730309617903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730309617903</updated>
+      <workItem from="1730309618832" duration="2442000" />
+      <workItem from="1730400935498" duration="1978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
